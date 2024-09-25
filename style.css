@@ -1,0 +1,12 @@
+/* transaction section new element style */
+.text-center .p {
+    border: 2px solid ;
+    border-color: rgba(26, 39, 66, 0.884);
+    padding: 12px 24px;
+    margin: 8px 0;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+}
+.text-center .p:hover {
+    background-color:rgba(169, 214, 235, 0.534) ;
+}
