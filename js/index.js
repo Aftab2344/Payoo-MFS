@@ -11,7 +11,7 @@ document.getElementById('btn-login').addEventListener('click',function(event){
     // temporary method
     if(phoneNumber ==='5' && pinCode ==='1234'){
         
-        window.location.href='/home.html';
+        window.location.href='./home.html';
     }
     else{
         alert('wrong phone number or Pin');
